@@ -1,0 +1,16 @@
+C:\Users\hungnva\Desktop\csharp\TestLinq\obj\Debug\net5.0\TestLinq.csprojAssemblyReference.cache
+C:\Users\hungnva\Desktop\csharp\TestLinq\obj\Debug\net5.0\TestLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hungnva\Desktop\csharp\TestLinq\obj\Debug\net5.0\TestLinq.AssemblyInfoInputs.cache
+C:\Users\hungnva\Desktop\csharp\TestLinq\obj\Debug\net5.0\TestLinq.AssemblyInfo.cs
+C:\Users\hungnva\Desktop\csharp\TestLinq\obj\Debug\net5.0\TestLinq.csproj.CoreCompileInputs.cache
+C:\Users\hungnva\Desktop\csharp\TestLinq\bin\Debug\net5.0\TestLinq.exe
+C:\Users\hungnva\Desktop\csharp\TestLinq\bin\Debug\net5.0\TestLinq.deps.json
+C:\Users\hungnva\Desktop\csharp\TestLinq\bin\Debug\net5.0\TestLinq.runtimeconfig.json
+C:\Users\hungnva\Desktop\csharp\TestLinq\bin\Debug\net5.0\TestLinq.runtimeconfig.dev.json
+C:\Users\hungnva\Desktop\csharp\TestLinq\bin\Debug\net5.0\TestLinq.dll
+C:\Users\hungnva\Desktop\csharp\TestLinq\bin\Debug\net5.0\ref\TestLinq.dll
+C:\Users\hungnva\Desktop\csharp\TestLinq\bin\Debug\net5.0\TestLinq.pdb
+C:\Users\hungnva\Desktop\csharp\TestLinq\obj\Debug\net5.0\TestLinq.dll
+C:\Users\hungnva\Desktop\csharp\TestLinq\obj\Debug\net5.0\ref\TestLinq.dll
+C:\Users\hungnva\Desktop\csharp\TestLinq\obj\Debug\net5.0\TestLinq.pdb
+C:\Users\hungnva\Desktop\csharp\TestLinq\obj\Debug\net5.0\TestLinq.genruntimeconfig.cache

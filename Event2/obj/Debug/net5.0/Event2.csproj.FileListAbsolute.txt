@@ -1,0 +1,16 @@
+C:\Users\hungnva\Desktop\csharp\Event2\obj\Debug\net5.0\Event2.csprojAssemblyReference.cache
+C:\Users\hungnva\Desktop\csharp\Event2\obj\Debug\net5.0\Event2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hungnva\Desktop\csharp\Event2\obj\Debug\net5.0\Event2.AssemblyInfoInputs.cache
+C:\Users\hungnva\Desktop\csharp\Event2\obj\Debug\net5.0\Event2.AssemblyInfo.cs
+C:\Users\hungnva\Desktop\csharp\Event2\obj\Debug\net5.0\Event2.csproj.CoreCompileInputs.cache
+C:\Users\hungnva\Desktop\csharp\Event2\bin\Debug\net5.0\Event2.exe
+C:\Users\hungnva\Desktop\csharp\Event2\bin\Debug\net5.0\Event2.deps.json
+C:\Users\hungnva\Desktop\csharp\Event2\bin\Debug\net5.0\Event2.runtimeconfig.json
+C:\Users\hungnva\Desktop\csharp\Event2\bin\Debug\net5.0\Event2.runtimeconfig.dev.json
+C:\Users\hungnva\Desktop\csharp\Event2\bin\Debug\net5.0\Event2.dll
+C:\Users\hungnva\Desktop\csharp\Event2\bin\Debug\net5.0\ref\Event2.dll
+C:\Users\hungnva\Desktop\csharp\Event2\bin\Debug\net5.0\Event2.pdb
+C:\Users\hungnva\Desktop\csharp\Event2\obj\Debug\net5.0\Event2.dll
+C:\Users\hungnva\Desktop\csharp\Event2\obj\Debug\net5.0\ref\Event2.dll
+C:\Users\hungnva\Desktop\csharp\Event2\obj\Debug\net5.0\Event2.pdb
+C:\Users\hungnva\Desktop\csharp\Event2\obj\Debug\net5.0\Event2.genruntimeconfig.cache

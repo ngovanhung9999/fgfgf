@@ -1,0 +1,16 @@
+C:\Users\hungnva\Desktop\csharp\testcharp\bin\Debug\net5.0\testcharp.exe
+C:\Users\hungnva\Desktop\csharp\testcharp\bin\Debug\net5.0\testcharp.deps.json
+C:\Users\hungnva\Desktop\csharp\testcharp\bin\Debug\net5.0\testcharp.runtimeconfig.json
+C:\Users\hungnva\Desktop\csharp\testcharp\bin\Debug\net5.0\testcharp.runtimeconfig.dev.json
+C:\Users\hungnva\Desktop\csharp\testcharp\bin\Debug\net5.0\testcharp.dll
+C:\Users\hungnva\Desktop\csharp\testcharp\bin\Debug\net5.0\ref\testcharp.dll
+C:\Users\hungnva\Desktop\csharp\testcharp\bin\Debug\net5.0\testcharp.pdb
+C:\Users\hungnva\Desktop\csharp\testcharp\obj\Debug\net5.0\testcharp.csprojAssemblyReference.cache
+C:\Users\hungnva\Desktop\csharp\testcharp\obj\Debug\net5.0\testcharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hungnva\Desktop\csharp\testcharp\obj\Debug\net5.0\testcharp.AssemblyInfoInputs.cache
+C:\Users\hungnva\Desktop\csharp\testcharp\obj\Debug\net5.0\testcharp.AssemblyInfo.cs
+C:\Users\hungnva\Desktop\csharp\testcharp\obj\Debug\net5.0\testcharp.csproj.CoreCompileInputs.cache
+C:\Users\hungnva\Desktop\csharp\testcharp\obj\Debug\net5.0\testcharp.dll
+C:\Users\hungnva\Desktop\csharp\testcharp\obj\Debug\net5.0\ref\testcharp.dll
+C:\Users\hungnva\Desktop\csharp\testcharp\obj\Debug\net5.0\testcharp.pdb
+C:\Users\hungnva\Desktop\csharp\testcharp\obj\Debug\net5.0\testcharp.genruntimeconfig.cache

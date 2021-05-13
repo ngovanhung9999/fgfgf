@@ -1,0 +1,16 @@
+C:\Users\hungnva\Desktop\csharp\Asyn\bin\Debug\net5.0\Asyn.exe
+C:\Users\hungnva\Desktop\csharp\Asyn\bin\Debug\net5.0\Asyn.deps.json
+C:\Users\hungnva\Desktop\csharp\Asyn\bin\Debug\net5.0\Asyn.runtimeconfig.json
+C:\Users\hungnva\Desktop\csharp\Asyn\bin\Debug\net5.0\Asyn.runtimeconfig.dev.json
+C:\Users\hungnva\Desktop\csharp\Asyn\bin\Debug\net5.0\Asyn.dll
+C:\Users\hungnva\Desktop\csharp\Asyn\bin\Debug\net5.0\ref\Asyn.dll
+C:\Users\hungnva\Desktop\csharp\Asyn\bin\Debug\net5.0\Asyn.pdb
+C:\Users\hungnva\Desktop\csharp\Asyn\obj\Debug\net5.0\Asyn.csprojAssemblyReference.cache
+C:\Users\hungnva\Desktop\csharp\Asyn\obj\Debug\net5.0\Asyn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hungnva\Desktop\csharp\Asyn\obj\Debug\net5.0\Asyn.AssemblyInfoInputs.cache
+C:\Users\hungnva\Desktop\csharp\Asyn\obj\Debug\net5.0\Asyn.AssemblyInfo.cs
+C:\Users\hungnva\Desktop\csharp\Asyn\obj\Debug\net5.0\Asyn.csproj.CoreCompileInputs.cache
+C:\Users\hungnva\Desktop\csharp\Asyn\obj\Debug\net5.0\Asyn.dll
+C:\Users\hungnva\Desktop\csharp\Asyn\obj\Debug\net5.0\ref\Asyn.dll
+C:\Users\hungnva\Desktop\csharp\Asyn\obj\Debug\net5.0\Asyn.pdb
+C:\Users\hungnva\Desktop\csharp\Asyn\obj\Debug\net5.0\Asyn.genruntimeconfig.cache

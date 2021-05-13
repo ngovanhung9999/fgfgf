@@ -1,0 +1,16 @@
+C:\Users\hungnva\Desktop\csharp\TestPefection\obj\Debug\net5.0\TestPefection.csprojAssemblyReference.cache
+C:\Users\hungnva\Desktop\csharp\TestPefection\obj\Debug\net5.0\TestPefection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hungnva\Desktop\csharp\TestPefection\obj\Debug\net5.0\TestPefection.AssemblyInfoInputs.cache
+C:\Users\hungnva\Desktop\csharp\TestPefection\obj\Debug\net5.0\TestPefection.AssemblyInfo.cs
+C:\Users\hungnva\Desktop\csharp\TestPefection\obj\Debug\net5.0\TestPefection.csproj.CoreCompileInputs.cache
+C:\Users\hungnva\Desktop\csharp\TestPefection\bin\Debug\net5.0\TestPefection.exe
+C:\Users\hungnva\Desktop\csharp\TestPefection\bin\Debug\net5.0\TestPefection.deps.json
+C:\Users\hungnva\Desktop\csharp\TestPefection\bin\Debug\net5.0\TestPefection.runtimeconfig.json
+C:\Users\hungnva\Desktop\csharp\TestPefection\bin\Debug\net5.0\TestPefection.runtimeconfig.dev.json
+C:\Users\hungnva\Desktop\csharp\TestPefection\bin\Debug\net5.0\TestPefection.dll
+C:\Users\hungnva\Desktop\csharp\TestPefection\bin\Debug\net5.0\ref\TestPefection.dll
+C:\Users\hungnva\Desktop\csharp\TestPefection\bin\Debug\net5.0\TestPefection.pdb
+C:\Users\hungnva\Desktop\csharp\TestPefection\obj\Debug\net5.0\TestPefection.dll
+C:\Users\hungnva\Desktop\csharp\TestPefection\obj\Debug\net5.0\ref\TestPefection.dll
+C:\Users\hungnva\Desktop\csharp\TestPefection\obj\Debug\net5.0\TestPefection.pdb
+C:\Users\hungnva\Desktop\csharp\TestPefection\obj\Debug\net5.0\TestPefection.genruntimeconfig.cache

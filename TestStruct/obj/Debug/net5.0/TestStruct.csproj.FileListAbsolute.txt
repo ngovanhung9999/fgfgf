@@ -1,0 +1,16 @@
+C:\Users\hungnva\Desktop\csharp\TestStruct\obj\Debug\net5.0\TestStruct.csprojAssemblyReference.cache
+C:\Users\hungnva\Desktop\csharp\TestStruct\obj\Debug\net5.0\TestStruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hungnva\Desktop\csharp\TestStruct\obj\Debug\net5.0\TestStruct.AssemblyInfoInputs.cache
+C:\Users\hungnva\Desktop\csharp\TestStruct\obj\Debug\net5.0\TestStruct.AssemblyInfo.cs
+C:\Users\hungnva\Desktop\csharp\TestStruct\obj\Debug\net5.0\TestStruct.csproj.CoreCompileInputs.cache
+C:\Users\hungnva\Desktop\csharp\TestStruct\bin\Debug\net5.0\TestStruct.exe
+C:\Users\hungnva\Desktop\csharp\TestStruct\bin\Debug\net5.0\TestStruct.deps.json
+C:\Users\hungnva\Desktop\csharp\TestStruct\bin\Debug\net5.0\TestStruct.runtimeconfig.json
+C:\Users\hungnva\Desktop\csharp\TestStruct\bin\Debug\net5.0\TestStruct.runtimeconfig.dev.json
+C:\Users\hungnva\Desktop\csharp\TestStruct\bin\Debug\net5.0\TestStruct.dll
+C:\Users\hungnva\Desktop\csharp\TestStruct\bin\Debug\net5.0\ref\TestStruct.dll
+C:\Users\hungnva\Desktop\csharp\TestStruct\bin\Debug\net5.0\TestStruct.pdb
+C:\Users\hungnva\Desktop\csharp\TestStruct\obj\Debug\net5.0\TestStruct.dll
+C:\Users\hungnva\Desktop\csharp\TestStruct\obj\Debug\net5.0\ref\TestStruct.dll
+C:\Users\hungnva\Desktop\csharp\TestStruct\obj\Debug\net5.0\TestStruct.pdb
+C:\Users\hungnva\Desktop\csharp\TestStruct\obj\Debug\net5.0\TestStruct.genruntimeconfig.cache

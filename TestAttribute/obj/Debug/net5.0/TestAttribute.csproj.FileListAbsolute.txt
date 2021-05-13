@@ -1,0 +1,16 @@
+C:\Users\hungnva\Desktop\csharp\TestAttribute\obj\Debug\net5.0\TestAttribute.csprojAssemblyReference.cache
+C:\Users\hungnva\Desktop\csharp\TestAttribute\obj\Debug\net5.0\TestAttribute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hungnva\Desktop\csharp\TestAttribute\obj\Debug\net5.0\TestAttribute.AssemblyInfoInputs.cache
+C:\Users\hungnva\Desktop\csharp\TestAttribute\obj\Debug\net5.0\TestAttribute.AssemblyInfo.cs
+C:\Users\hungnva\Desktop\csharp\TestAttribute\obj\Debug\net5.0\TestAttribute.csproj.CoreCompileInputs.cache
+C:\Users\hungnva\Desktop\csharp\TestAttribute\bin\Debug\net5.0\TestAttribute.exe
+C:\Users\hungnva\Desktop\csharp\TestAttribute\bin\Debug\net5.0\TestAttribute.deps.json
+C:\Users\hungnva\Desktop\csharp\TestAttribute\bin\Debug\net5.0\TestAttribute.runtimeconfig.json
+C:\Users\hungnva\Desktop\csharp\TestAttribute\bin\Debug\net5.0\TestAttribute.runtimeconfig.dev.json
+C:\Users\hungnva\Desktop\csharp\TestAttribute\bin\Debug\net5.0\TestAttribute.dll
+C:\Users\hungnva\Desktop\csharp\TestAttribute\bin\Debug\net5.0\ref\TestAttribute.dll
+C:\Users\hungnva\Desktop\csharp\TestAttribute\bin\Debug\net5.0\TestAttribute.pdb
+C:\Users\hungnva\Desktop\csharp\TestAttribute\obj\Debug\net5.0\TestAttribute.dll
+C:\Users\hungnva\Desktop\csharp\TestAttribute\obj\Debug\net5.0\ref\TestAttribute.dll
+C:\Users\hungnva\Desktop\csharp\TestAttribute\obj\Debug\net5.0\TestAttribute.pdb
+C:\Users\hungnva\Desktop\csharp\TestAttribute\obj\Debug\net5.0\TestAttribute.genruntimeconfig.cache
