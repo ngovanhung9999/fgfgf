@@ -2,7 +2,7 @@
 using System.Text;
 namespace Event2
 {
-    public delegate void NumberInputEvent(int i);
+    //public delegate void NumberInputEvent(int i);
     class Program
     {
         static void Main(string[] args)
@@ -14,7 +14,7 @@ namespace Event2
 
             subA.Subscriber(number);
             subB.Subscriber(number);
-            number.Number = 9;
+            number.InputNumber();
         }
     }
 
@@ -22,12 +22,12 @@ namespace Event2
     {
         public void Subscriber(NumberInput numberInput)
         {
-            numberInput.InputEvent = Sqrt;
+            numberInput.InputEvent += Sqrt;
         }
 
-        public void Sqrt(int number)
+        public void Sqrt(Object obj, NumberInputEventArgs e)
         {
-            Console.WriteLine($"căn bật hai của {number} là {Math.Sqrt(number)}");
+            Console.WriteLine($"căn bật hai của {e.Number} là {Math.Sqrt(e.Number)}");
         }
 
     }
@@ -36,20 +36,19 @@ namespace Event2
     {
         public void Subscriber(NumberInput numberInput)
         {
-            numberInput.InputEvent = Square;
+            numberInput.InputEvent += Square;
         }
 
-        public void Square(int number)
+        public void Square(Object obj, NumberInputEventArgs e)
         {
-            Console.WriteLine($"căn bật hai của {number} là {number * number}");
+            Console.WriteLine($"căn bật hai của {e.Number} là {e.Number * e.Number}");
         }
-
     }
 
     public class NumberInput
     {
-        public NumberInputEvent InputEvent { get; set; }
-        //public event EventHandler InputEvent;
+        //public NumberInputEvent InputEvent { get; set; }
+        public event EventHandler<NumberInputEventArgs> InputEvent;
         private int _Number;
 
         public int Number
@@ -58,18 +57,26 @@ namespace Event2
             set
             {
                 _Number = value;
-                InputEvent?.Invoke(_Number);
+                InputEvent?.Invoke(this, new NumberInputEventArgs(_Number));
             }
         }
 
         public void InputNumber()
         {
-            Console.Write("Enter number:");
+            Console.Write("Nhập số:");
             string strNumber = Console.ReadLine();
             int number;
             Int32.TryParse(strNumber, out number);
+            _Number = number;
+            InputEvent?.Invoke(this, new NumberInputEventArgs(_Number));
+        }
+    }
+    public class NumberInputEventArgs : EventArgs
+    {
+        public int Number { get; set; }
+        public NumberInputEventArgs(int number)
+        {
             Number = number;
-            InputEvent?.Invoke(Number);
         }
     }
 
