@@ -14,7 +14,7 @@ namespace Event2
 
             subA.Subscriber(number);
             subB.Subscriber(number);
-            number.Number = 9;
+            number.InputNumber();
         }
     }
 
@@ -63,11 +63,11 @@ namespace Event2
 
         public void InputNumber()
         {
-            Console.Write("Enter number:");
+            Console.Write("Nhập số:");
             string strNumber = Console.ReadLine();
             int number;
             Int32.TryParse(strNumber, out number);
-            Number = number;
+            _Number = number;
             InputEvent?.Invoke(Number);
         }
     }
