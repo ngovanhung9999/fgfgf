@@ -49,6 +49,7 @@ namespace Event2
     public class NumberInput
     {
         public NumberInputEvent InputEvent { get; set; }
+        //public event EventHandler InputEvent;
         private int _Number;
 
         public int Number
