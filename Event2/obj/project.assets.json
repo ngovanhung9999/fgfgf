@@ -8,19 +8,23 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\hungnva\\.nuget\\packages\\": {}
+    "C:\\Users\\ngova\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hungnva\\Desktop\\csharp\\Event2\\Event2.csproj",
+      "projectUniqueName": "C:\\Users\\ngova\\Desktop\\new\\fgfgf\\Event2\\Event2.csproj",
       "projectName": "Event2",
-      "projectPath": "C:\\Users\\hungnva\\Desktop\\csharp\\Event2\\Event2.csproj",
-      "packagesPath": "C:\\Users\\hungnva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hungnva\\Desktop\\csharp\\Event2\\obj\\",
+      "projectPath": "C:\\Users\\ngova\\Desktop\\new\\fgfgf\\Event2\\Event2.csproj",
+      "packagesPath": "C:\\Users\\ngova\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ngova\\Desktop\\new\\fgfgf\\Event2\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\hungnva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ngova\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
