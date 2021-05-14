@@ -17,7 +17,7 @@ namespace Event2
             number.InputNumber();
         }
     }
-
+    //subscribers
     public class SubscriberA
     {
         public void Subscriber(NumberInput numberInput)
@@ -31,7 +31,7 @@ namespace Event2
         }
 
     }
-
+    //subscribers
     public class SubscriberB
     {
         public void Subscriber(NumberInput numberInput)
@@ -45,6 +45,8 @@ namespace Event2
         }
     }
 
+
+    //publisher 
     public class NumberInput
     {
         //public NumberInputEvent InputEvent { get; set; }
@@ -73,7 +75,7 @@ namespace Event2
     }
     public class NumberInputEventArgs : EventArgs
     {
-        public int Number { get; set; }
+        public int Number { get; }
         public NumberInputEventArgs(int number)
         {
             Number = number;
